@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=1590F7&repeat=false&width=435&lines=Seda+Nur+Murat+-+Frontend+Developer)](https://git.io/typing-svg)
 
-Hi, I'm Seda. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). For the last six months, I had the chance to work on variety of technologies on a daily basis, including but not limited to:
+Hi, I'm Seda. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). For the last six months, I had the chance to work on variety of technologies on a daily basis, including:
 * HTML
 * CSS
 * SASS
